@@ -1,0 +1,33 @@
+git init--initialise the git empty repository
+ls--displays list of files
+ls -a --displays hidden files
+git config --global user.name "Kranthi kancherla"
+git config --global user.email "kk.devops@gmail.com"
+git config --global --unset user.name
+git clone cloneulrcopy
+ls
+cd repo1
+touch file (create new file)
+git add file(add file ) /git add ./ git add *
+git status
+git commit -m "message" file name
+git status
+git show cid(commit ID)
+git log
+git reset head Filename(staging to workspace)
+git reset --soft CID (local to staging)
+
+
+https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-1557-WIN&productId=799&rPId=55767
+
+http://centos.excellmedia.net/8.4.2105/isos/x86_64/
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+rw-rw-w  662
+
+r-4
+w-2
+x-1
+uname
+uname -a
