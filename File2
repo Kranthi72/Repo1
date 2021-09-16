@@ -14,6 +14,7 @@ git commit -m "message" file name
 git status
 git show cid(commit ID)
 git log
+git log --author=kranthi
 git reset head Filename(staging to workspace)
 git reset --soft CID (local to staging)
 
@@ -31,3 +32,5 @@ w-2
 x-1
 uname
 uname -a
+
+
