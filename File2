@@ -11,14 +11,18 @@ touch file (create new file)
 git add file(add file ) /git add ./ git add *
 git status
 git commit -m "message" file name
+Kranthi
 git status
 git show cid(commit ID)
 git log
 git log --author=kranthi
 git reset head Filename(staging to workspace)
 git reset --soft CID (local to staging)
-
-
+git config --global alias.s "status"
+git s
+git config --global alias.l1 "log --oneleine"
+git l1
+.gitignore
 https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-1557-WIN&productId=799&rPId=55767
 
 http://centos.excellmedia.net/8.4.2105/isos/x86_64/
