@@ -12,12 +12,9 @@ git add file(add file ) /git add ./ git add *
 git status
 git commit -m "message" file name
 Kranthi
-git status
-git show cid(commit ID)
-git log
-git log --author=kranthi
-git reset head Filename(staging to workspace)
-git reset --soft CID (local to staging)
+g3. What are FSMO role holders and explain about them?
+     ---->a. Schema Master b. Domain Naming master c. RID Pool Master 
+    d. PDC Emulator e. Infrastructure Masterit reset --soft CID (local to staging)
 git config --global alias.s "status"
 git s
 git config --global alias.l1 "log --oneleine"
